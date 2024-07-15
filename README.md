@@ -1,2 +1,2 @@
 # DreamDecoder
-Dream Decoder is an AI-powered mobile app that analyzes and interprets your dreams, providing personalized insights based on dream symbols and patterns.
+Dream Decoder is an AI-powered mobile application designed to provide insights and interpretations of your dreams. By leveraging advanced machine learning algorithms, Dream Decoder analyzes the content of your dreams and offers personalized interpretations based on various dream symbols and patterns. Whether you want to understand recurring themes, decipher specific dream symbols, or simply explore the meaning behind your nightly visions, Dream Decoder is your go-to tool for unlocking the mysteries of your subconscious mind.
